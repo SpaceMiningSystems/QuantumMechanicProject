@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumMechanic.CSharp.Plugins", "QuantumMechanic.CSharp.Plugins.csproj", "{6D9B3550-6E6B-3361-4399-063449F2BB7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumMechanic.CSharp", "QuantumMechanic.CSharp.csproj", "{5E1BC6EC-B7D2-E4A3-CBC6-2F9332F2A1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumMechanic.CSharp.Editor.Plugins", "QuantumMechanic.CSharp.Editor.Plugins.csproj", "{5032FA1C-660C-2E48-D429-88D318CA474E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9B3550-6E6B-3361-4399-063449F2BB7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9B3550-6E6B-3361-4399-063449F2BB7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9B3550-6E6B-3361-4399-063449F2BB7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9B3550-6E6B-3361-4399-063449F2BB7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E1BC6EC-B7D2-E4A3-CBC6-2F9332F2A1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E1BC6EC-B7D2-E4A3-CBC6-2F9332F2A1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E1BC6EC-B7D2-E4A3-CBC6-2F9332F2A1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E1BC6EC-B7D2-E4A3-CBC6-2F9332F2A1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5032FA1C-660C-2E48-D429-88D318CA474E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5032FA1C-660C-2E48-D429-88D318CA474E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5032FA1C-660C-2E48-D429-88D318CA474E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5032FA1C-660C-2E48-D429-88D318CA474E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
